@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: auto;
+    color: #232D36;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    padding: right;
+}
